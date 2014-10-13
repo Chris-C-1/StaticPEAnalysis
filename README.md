@@ -9,8 +9,10 @@ work fine on any 32 bit Windows binary
 
 This framework was built to analyze a few particular binaries and worked very well for that.
 I have removed the functionality specific to those binaries. Not much testing has been performed
-outside those binaries, but it SHOULD (...) work on any Win 32 binary.
+outside those binaries, but it should (...) work on any Win 32 binary.
 
 Dependencies:
+
 distorm3 disassembler library, https://code.google.com/p/distorm/
+
 pefile PE header library, https://code.google.com/p/pefile/
